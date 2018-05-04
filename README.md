@@ -4,9 +4,9 @@
 ## How to Run Code
 
 - Make sure Python is installed
-- Be inside of directory
 - Run 'python inference.py'
 - Wait.  It takes some time.
+- The algorithm accuracy results will be printed to the terminal
 
 ## Introduction
  
